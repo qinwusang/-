@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add your custom CSS from the previous index.html style tag here if needed, 
+   but most is handled by Tailwind config now. */
+body {
+  background-color: #050505;
+  color: #e4e4e7;
+  overflow: hidden; 
+}
